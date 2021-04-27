@@ -1,0 +1,118 @@
+Added Component: Designator=C1(C 0603)
+Added Component: Designator=C2(C 0603)
+Added Component: Designator=C3(C 0603)
+Added Component: Designator=C4(C 0603)
+Added Component: Designator=C5(C 0603)
+Added Component: Designator=C14(C 0603)
+Added Component: Designator=C15(C 0603)
+Added Component: Designator=C16(C 0603)
+Added Component: Designator=C17(C 0603)
+Added Component: Designator=IC2(TSSOP16_N)
+Added Component: Designator=JK1(HF46F/12-HS1)
+Added Component: Designator=JK2(HF46F/12-HS1)
+Added Component: Designator=JP2(XH2.54-3P)
+Added Component: Designator=R3(R 0603)
+Added Component: Designator=R5(R 0603)
+Added Component: Designator=R8(R 0603)
+Added Component: Designator=R9(R 0603)
+Added Component: Designator=U1(ESP32-S)
+Added Component: Designator=U8(B1205S-2W)
+Added Pin To Net: NetName=PD.GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=PD.GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=PD.GND Pin=C3-1
+Added Pin To Net: NetName=PD.3V3 Pin=C3-2
+Added Pin To Net: NetName=PD.GND Pin=C4-1
+Added Pin To Net: NetName=PD.GND Pin=C5-1
+Added Pin To Net: NetName=FO0 Pin=C14-1
+Added Pin To Net: NetName=BO0 Pin=C14-2
+Added Pin To Net: NetName=PD.GND Pin=C15-1
+Added Pin To Net: NetName=PD.12V Pin=C15-2
+Added Pin To Net: NetName=FO1 Pin=C16-1
+Added Pin To Net: NetName=BO1 Pin=C16-2
+Added Pin To Net: NetName=PD.GND Pin=C17-1
+Added Pin To Net: NetName=PD.12V Pin=C17-2
+Added Pin To Net: NetName=NetC6_2 Pin=IC2-1
+Added Pin To Net: NetName=NetC8_2 Pin=IC2-2
+Added Pin To Net: NetName=NetC6_1 Pin=IC2-3
+Added Pin To Net: NetName=NetC10_2 Pin=IC2-4
+Added Pin To Net: NetName=NetC10_1 Pin=IC2-5
+Added Pin To Net: NetName=NetC11_2 Pin=IC2-6
+Added Pin To Net: NetName=U1TX.O Pin=IC2-7
+Added Pin To Net: NetName=U1RX.O Pin=IC2-8
+Added Pin To Net: NetName=U1RX Pin=IC2-9
+Added Pin To Net: NetName=U1TX Pin=IC2-10
+Added Pin To Net: NetName=PD.GND Pin=IC2-15
+Added Pin To Net: NetName=PD.3V3 Pin=IC2-16
+Added Pin To Net: NetName=NetJK1_1 Pin=JK1-1
+Added Pin To Net: NetName=PD.12V Pin=JK1-2
+Added Pin To Net: NetName=PD.12V Pin=JK1-3
+Added Pin To Net: NetName=DO0.OUT Pin=JK1-4
+Added Pin To Net: NetName=NetJK2_1 Pin=JK2-1
+Added Pin To Net: NetName=PD.12V Pin=JK2-2
+Added Pin To Net: NetName=PD.12V Pin=JK2-3
+Added Pin To Net: NetName=DO1.OUT Pin=JK2-4
+Added Pin To Net: NetName=PD.GND Pin=JP2-1
+Added Pin To Net: NetName=U1RX.O Pin=JP2-2
+Added Pin To Net: NetName=U1TX.O Pin=JP2-3
+Added Pin To Net: NetName=NetLED1_1 Pin=R3-1
+Added Pin To Net: NetName=PD.3V3 Pin=R3-2
+Added Pin To Net: NetName=NetLED2_1 Pin=R5-1
+Added Pin To Net: NetName=CFG.LED0 Pin=R5-2
+Added Pin To Net: NetName=NetLED3_1 Pin=R8-1
+Added Pin To Net: NetName=CFG.LED1 Pin=R8-2
+Added Pin To Net: NetName=NetLED4_1 Pin=R9-1
+Added Pin To Net: NetName=CFG.LED2 Pin=R9-2
+Added Pin To Net: NetName=PD.GND Pin=U1-1
+Added Pin To Net: NetName=PD.3V3 Pin=U1-2
+Added Pin To Net: NetName=#EN Pin=U1-3
+Added Pin To Net: NetName=WS2812 Pin=U1-10
+Added Pin To Net: NetName=CFG.LED1 Pin=U1-11
+Added Pin To Net: NetName=CFG.LED2 Pin=U1-12
+Added Pin To Net: NetName=DO0.IN Pin=U1-13
+Added Pin To Net: NetName=DO1.IN Pin=U1-14
+Added Pin To Net: NetName=PD.GND Pin=U1-15
+Added Pin To Net: NetName=ADC Pin=U1-16
+Added Pin To Net: NetName=U1RX Pin=U1-17
+Added Pin To Net: NetName=U1TX Pin=U1-18
+Added Pin To Net: NetName=CFG.LED0 Pin=U1-24
+Added Pin To Net: NetName=IO0 Pin=U1-25
+Added Pin To Net: NetName=PWM1.B Pin=U1-27
+Added Pin To Net: NetName=PWM1.A Pin=U1-28
+Added Pin To Net: NetName=PWM0.B Pin=U1-30
+Added Pin To Net: NetName=PWM0.A Pin=U1-31
+Added Pin To Net: NetName=U0RX Pin=U1-34
+Added Pin To Net: NetName=U0TX Pin=U1-35
+Added Pin To Net: NetName=DHT1 Pin=U1-36
+Added Pin To Net: NetName=TEM1 Pin=U1-37
+Added Pin To Net: NetName=PD.GND Pin=U1-38
+Added Pin To Net: NetName=PD.GND Pin=U1-39
+Added Pin To Net: NetName=PD.12V Pin=U8-1
+Added Pin To Net: NetName=PI.GND Pin=U8-2
+Added Pin To Net: NetName=PD.GND Pin=U8-4
+Added Pin To Net: NetName=PD.5V Pin=U8-6
+Added Member To Class: ClassName=Core Member=Component C1 10pf
+Added Member To Class: ClassName=Core Member=Component C2 10pf
+Added Member To Class: ClassName=Core Member=Component C3 104
+Added Member To Class: ClassName=Do Member=Component C4 104
+Added Member To Class: ClassName=Do Member=Component C5 104
+Added Member To Class: ClassName=Motor Member=Component C14 104
+Added Member To Class: ClassName=Motor Member=Component C15 104
+Added Member To Class: ClassName=Motor Member=Component C16 104
+Added Member To Class: ClassName=Motor Member=Component C17 104
+Added Member To Class: ClassName=Interface Member=Component IC2 SP3232
+Added Member To Class: ClassName=Do Member=Component JK1 HF46F/12-HS1
+Added Member To Class: ClassName=Do Member=Component JK2 HF46F/12-HS1
+Added Member To Class: ClassName=Interface Member=Component JP2 HDR-1X3
+Added Member To Class: ClassName=Core Member=Component R3 3.3K
+Added Member To Class: ClassName=Core Member=Component R5 3.3K
+Added Member To Class: ClassName=Core Member=Component R8 3.3K
+Added Member To Class: ClassName=Core Member=Component R9 3.3K
+Added Member To Class: ClassName=Core Member=Component U1 ESP32-S
+Added Member To Class: ClassName=Power Member=Component U8 B1205S-2W
+Added Room: Name=Core
+Added Room: Name=Do
+Added Room: Name=Interface
+Added Room: Name=Motor
+Added Room: Name=Power

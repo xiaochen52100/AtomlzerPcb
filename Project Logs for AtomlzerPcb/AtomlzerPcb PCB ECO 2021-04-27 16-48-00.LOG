@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=PWM1.B Pin=U1-27
+Removed Pin From Net: NetName=PWM1.A Pin=U1-28
+Added Component: Designator=JP6(XH2.54-4P)
+Added Pin To Net: NetName=PD.GND Pin=JP6-1
+Added Pin To Net: NetName=PD.5V Pin=JP6-2
+Added Pin To Net: NetName=PWM1.A Pin=U1-8
+Added Pin To Net: NetName=PWM1.B Pin=U1-9
+Added Pin To Net: NetName=U2RX Pin=JP6-3
+Added Pin To Net: NetName=U2RX Pin=U1-27
+Added Net: Name=U2RX
+Added Pin To Net: NetName=U2TX Pin=JP6-4
+Added Pin To Net: NetName=U2TX Pin=U1-28
+Added Net: Name=U2TX
+Added Member To Class: ClassName=Interface Member=Component JP6 HDR-1X4
+Added Room: Name=Core
+Added Room: Name=Do
+Added Room: Name=Interface
+Added Room: Name=Motor
+Added Room: Name=Power
