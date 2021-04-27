@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=USB1 Old Footprint=USB-C/S_A New Footprint=TYPE-C-31-M-12
+Added Room: Name=Core
+Added Room: Name=Do
+Added Room: Name=Motor
+Added Room: Name=Power
