@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=PD.3V3 Pin=C4-2
+Added Pin To Net: NetName=PD.3V3 Pin=C5-2
+Added Room: Name=Core
+Added Room: Name=Do
+Added Room: Name=Interface
+Added Room: Name=Motor
+Added Room: Name=Power

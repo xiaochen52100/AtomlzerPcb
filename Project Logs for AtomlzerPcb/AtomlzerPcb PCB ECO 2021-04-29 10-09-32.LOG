@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=PD.5V Pin=USB1-B9
+Added Room: Name=Core
+Added Room: Name=Do
+Added Room: Name=Interface
+Added Room: Name=Motor
+Added Room: Name=Power
