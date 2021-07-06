@@ -1,0 +1,41 @@
+Removed Member From Class: ClassName=Interface Member=C4
+Removed Member From Class: ClassName=Motor Member=C12
+Removed Member From Class: ClassName=Power Member=C15
+Removed Member From Class: ClassName=Motor Member=C17
+Removed Member From Class: ClassName=Power Member=U8
+Removed Member From Class: ClassName=Motor Member=U10
+Removed Member From Class: ClassName=Motor Member=U11
+Added Component: Designator=C5(C 0603)
+Added Component: Designator=JK3(HF46F/12-HS1)
+Added Component: Designator=R18(R 0603)
+Added Component: Designator=R19(R 0603)
+Added Component: Designator=R20(R 0603)
+Added Pin To Net: NetName=PD.GND Pin=C5-1
+Added Pin To Net: NetName=PD.3V3 Pin=C5-2
+Added Pin To Net: NetName=NetJK3_1 Pin=JK3-1
+Added Pin To Net: NetName=PD.12V Pin=JK3-2
+Added Pin To Net: NetName=PD.12V Pin=JK3-3
+Added Pin To Net: NetName=DO2.OUT Pin=JK3-4
+Added Pin To Net: NetName=DRV2 Pin=R18-1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R19-2
+Added Pin To Net: NetName=PD.GND Pin=R20-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R20-2
+Added Member To Class: ClassName=Do Member=Component C3 104
+Added Member To Class: ClassName=Do Member=Component C4 104
+Added Member To Class: ClassName=Do Member=Component C5 104
+Added Member To Class: ClassName=Motor Member=Component C13 104
+Added Member To Class: ClassName=Power Member=Component C17 104
+Added Member To Class: ClassName=Do Member=Component JK3 HF46F/12-HS1
+Added Member To Class: ClassName=Interface Member=Component JP5 HDR-1X3
+Added Member To Class: ClassName=Do Member=Component R18 570
+Added Member To Class: ClassName=Do Member=Component R19 1K
+Added Member To Class: ClassName=Do Member=Component R20 10K
+Added Member To Class: ClassName=Motor Member=Component U8 RZ7889
+Added Member To Class: ClassName=Motor Member=Component U9 RZ7889
+Added Room: Name=Core
+Added Room: Name=Do
+Added Room: Name=Interface
+Added Room: Name=Motor
+Added Room: Name=Power

@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=PD.12V Pin=U9-1
+Added Pin To Net: NetName=PD.GND Pin=U9-2
+Added Pin To Net: NetName=PD.GND Pin=U9-4
+Added Pin To Net: NetName=PD.5V Pin=U9-6
+Added Member To Class: ClassName=Power Member=Component U9 B1205S-2W
+Added Room: Name=Core
+Added Room: Name=Do
+Added Room: Name=Interface
+Added Room: Name=Motor
+Added Room: Name=Power

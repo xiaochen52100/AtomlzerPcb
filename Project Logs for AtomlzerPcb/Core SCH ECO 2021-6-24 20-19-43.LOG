@@ -1,0 +1,4 @@
+Remove Pin=U9-1 From Net=PD.12V
+Remove Pin=U9-2 From Net=PD.GND
+Remove Pin=U9-4 From Net=PD.GND
+Remove Pin=U9-6 From Net=PD.5V

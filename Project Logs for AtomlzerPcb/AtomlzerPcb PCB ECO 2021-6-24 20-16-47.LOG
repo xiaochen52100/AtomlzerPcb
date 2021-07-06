@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=PI.GND Pin=C20-1
+Removed Pin From Net: NetName=PI.GND Pin=C21-2
+Removed Pin From Net: NetName=PI.GND Pin=E5-2
+Removed Pin From Net: NetName=PI.GND Pin=L1-B2
+Removed Pin From Net: NetName=PI.GND Pin=U8-2
+Added Pin To Net: NetName=PD.GND Pin=C20-1
+Added Pin To Net: NetName=PD.GND Pin=C21-2
+Added Pin To Net: NetName=PD.GND Pin=E5-2
+Added Pin To Net: NetName=PD.GND Pin=L1-B2
+Added Pin To Net: NetName=PD.GND Pin=U8-2
+Added Room: Name=Core
+Added Room: Name=Do
+Added Room: Name=Interface
+Added Room: Name=Motor
+Added Room: Name=Power

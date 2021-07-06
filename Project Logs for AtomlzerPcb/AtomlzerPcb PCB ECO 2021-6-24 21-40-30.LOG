@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=C2-2
+Removed Pin From Net: NetName=PD.GND Pin=C12-1
+Removed Pin From Net: NetName=PD.3V3 Pin=C12-2
+Removed Pin From Net: NetName=NetC2_2 Pin=IC1-8
+Removed Pin From Net: NetName=PD.3V3 Pin=JP3-1
+Removed Pin From Net: NetName=PD.GND Pin=JP3-3
+Removed Pin From Net: NetName=PD.3V3 Pin=R19-2
+Removed Pin From Net: NetName=DO0.IN Pin=U1-13
+Removed Pin From Net: NetName=ADC Pin=U1-16
+Removed Pin From Net: NetName=U1RX Pin=U1-17
+Removed Pin From Net: NetName=U1TX Pin=U1-18
+Removed Pin From Net: NetName=PD.GND Pin=X1-2
+Removed Pin From Net: NetName=PD.GND Pin=X1-4
+Removed Member From Class: ClassName=Interface Member=C12
+Removed Member From Class: ClassName=Interface Member=JP6
+Removed Member From Class: ClassName=Interface Member=R21
+Change Component Footprint: Designator=E1 Old Footprint=CD B(3528) New Footprint=CD A(3216)
+Change Component Footprint: Designator=E2 Old Footprint=CM E(8*10.2) New Footprint=CM F(10*10.2)
+Change Component Footprint: Designator=E3 Old Footprint=CM E(8*10.2) New Footprint=CM F(10*10.2)
+Change Component Footprint: Designator=E4 Old Footprint=CM E(8*10.2) New Footprint=CM F(10*10.2)
+Change Component Footprint: Designator=E5 Old Footprint=CM E(8*10.2) New Footprint=CM F(10*10.2)
+Change Component Footprint: Designator=X1 Old Footprint=XTAL-5032 New Footprint=OSC HC-49SMD
+Change Component Comment : Designator=X1 Old Comment=12M New Comment=12MHz
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=JP4 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP5 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP6 NewDesignator=JP5
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Added Component: Designator=C1(C 0603_L)
+Added Component: Designator=E6(CD A(3216))
+Added Component: Designator=E7(CD A(3216))
+Added Pin To Net: NetName=PD.GND Pin=C1-1
+Added Pin To Net: NetName=#EN Pin=C1-2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=PD.5V Pin=E6-1
+Added Pin To Net: NetName=PD.GND Pin=E6-2
+Added Pin To Net: NetName=PD.3V3 Pin=E7-1
+Added Pin To Net: NetName=PD.GND Pin=E7-2
+Added Pin To Net: NetName=NetC2_2 Pin=IC1-7
+Added Pin To Net: NetName=ADC Pin=U1-7
+Added Pin To Net: NetName=DO0.IN Pin=U1-26
+Added Pin To Net: NetName=U1TX Pin=U1-29
+Added Pin To Net: NetName=U1RX Pin=U1-33
+Added Pin To Net: NetName=D_P Pin=USB1-B6
+Added Pin To Net: NetName=D_N Pin=USB1-B7
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetC10_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC12_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=IC1-8
+Added Pin To Net: NetName=NetC3_2 Pin=X1-2
+Added Net: Name=NetC3_2
+Added Member To Class: ClassName=Core Member=Component C4 104
+Added Member To Class: ClassName=Power Member=Component E6 10uF/6.3V
+Added Member To Class: ClassName=Power Member=Component E7 10uF/6.3V
+Added Room: Name=Core
+Added Room: Name=Do
+Added Room: Name=Interface
+Added Room: Name=Motor
+Added Room: Name=Power

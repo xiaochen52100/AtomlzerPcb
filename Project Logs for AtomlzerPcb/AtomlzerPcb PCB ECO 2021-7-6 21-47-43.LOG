@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=Interface Member=R18
+Removed Member From Class: ClassName=Interface Member=R19
+Removed Member From Class: ClassName=Interface Member=R20
+Added Component: Designator=U6(TSSOP-5P-0.65BSC-2.15x1.40Bmax-1.10Hmax)
+Added Component: Designator=U7(SO-4-1.27BSC-4.6W-TLP)
+Added Pin To Net: NetName=PD.3V3 Pin=U6-1
+Added Pin To Net: NetName=DO2.IN Pin=U6-2
+Added Pin To Net: NetName=PD.GND Pin=U6-3
+Added Pin To Net: NetName=DRV2 Pin=U6-4
+Added Pin To Net: NetName=PD.3V3 Pin=U6-5
+Added Pin To Net: NetName=NetR18_2 Pin=U7-1
+Added Pin To Net: NetName=PD.GND Pin=U7-2
+Added Pin To Net: NetName=NetR19_1 Pin=U7-3
+Added Pin To Net: NetName=PD.12V Pin=U7-4
+Added Member To Class: ClassName=Do Member=Component U6 74LVC1G126
+Added Member To Class: ClassName=Do Member=Component U7 TLP290
+Added Room: Name=Core
+Added Room: Name=Do
+Added Room: Name=Interface
+Added Room: Name=Motor
+Added Room: Name=Power
